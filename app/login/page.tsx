@@ -98,7 +98,7 @@ const Login = () => {
           </Form.Item>
 
           <div className="text-sm text-gray-500 text-center mb-4">
-            Demo: john@example.com / password123
+            Demo: alice@example.com / password123
           </div>
 
           <div className="text-center">
