@@ -1,4 +1,4 @@
-# Todo List App
+# Personal Finance Tracker
 
 Aplikasi fullstack Personal Finance Tracker dengan **Next js (frontend)** dan **Express js + PostgreSQL (backend)** menggunakan Docker.
 
