@@ -35,7 +35,7 @@ Frontend dibangun dengan Next js + React + TypeScript + Tailwind + Ant Design.
 1. **Clone repository frontend:**
 
 ```bash
-git clone https://github.com/naufalilyasa/todolist-fe-react
+git clone https://github.com/naufalilyasa/personal-finance-tracker-fe.git
 ```
 
 ```bash
